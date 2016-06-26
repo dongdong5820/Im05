@@ -1,0 +1,8 @@
+redis 安装目录：  E:\new_wamp\redis-2.4.5
+
+1、开启redis服务
+E:\new_wamp\redis-2.4.5> reids-server.exe redis.conf
+
+
+2、连接redis
+E:\new_wamp\redis-2.4.5> redis-cli.exe -h 127.0.0.1 -p 6379 
